@@ -1,0 +1,1 @@
+- 放置原始的`Qwen2-VL-2B-Instruct`模型，库链接如下https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct/tree/main

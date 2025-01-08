@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/OIP (3).jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/depositphotos_13648089-stock-photo-full-body-portrait-of-a.jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/OIP (1).jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/下载.jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/OIP (2).jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/OIP.jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "image",
+                    "image": "test_data_out_of_dataset/img/th.jpg"
+                },
+                {
+                    "type": "text",
+                    "text": "描述一下这个图片"
+                }
+            ]
+        }
+    ]
+]
