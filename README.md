@@ -5,8 +5,10 @@
 - 原始数据集来源于DeepFashion-MultiModal 数据集中 image 和 textual descriptions 的数据，其中 80% 的数据作为模型的训练集，20% 作为模型的测试集。数据集的 Github Repo 如下：
 >  https://github.com/yumingj/DeepFashion-MultiModal
 - 我们在此基础上使用老师在群里提供的增量数据：图像集images和切分后的描述文本文件：train_caption.json 和 test_caption.json构成待处理的数据集。
-> https://pan.baidu.com/s/1qN3EEUNXh4nUcNZMCoT9Fg?pwd=rnfw (rnfw)
-- 同样按照80%和20%切分train_caption.json文件，划分出训练集train.json与验证集valid.json。
+> [谷歌云端硬盘](https://drive.google.com/file/d/1sw-toESmgIZory40qrdeLHzaJ_HpMMtg)
+> [阿里云盘(自解压格式压缩文件)](https://www.alipan.com/s/NyZ3XscjepG) (提取码: 40bo)
+- 同样按照80%和20%切分train_caption.json文件，划分出训练集train.json与验证集valid.json
+
 ## 三、人员分工表
 
 | 部分                  | 探究实现                  | 报告撰写                  | 备注             |
